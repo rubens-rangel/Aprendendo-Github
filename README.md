@@ -1,2 +1,2 @@
-# Repositorio incial para treinamento sobre github
+# Initial repository for github training
 
